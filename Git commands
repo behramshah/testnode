@@ -1,0 +1,4 @@
+git clone+repository url - copy repository
+git add . - add to stage
+git commit -m "kommentarii"
+git push ( burada dzgun varianti chixir copy edib yeniden duzgun yaziriq)
