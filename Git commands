@@ -1,4 +1,15 @@
 git clone+repository url - copy repository
-git add . - add to stage
+open cloned folder in text editor
+git checkout -b "yeni branch adi"
+git add . (- add to stage)
 git commit -m "kommentarii"
 git push ( burada dzgun varianti chixir copy edib yeniden duzgun yaziriq)
+
+for gulp
+package json fayl;nda 
+("scripts":  { 
+    "build": "gulp",
+    "start": "gulp watch"
+  },)
+  
+  
