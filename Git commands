@@ -4,6 +4,7 @@ git checkout -b "yeni branch adi"
 git add . (- add to stage)
 git commit -m "kommentarii"
 git push ( burada dzgun varianti chixir copy edib yeniden duzgun yaziriq)
+npm init -( package.json yaradir)
 
 for gulp
 package json fayl;nda 
